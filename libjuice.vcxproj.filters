@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="libjuice\src\addr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\agent.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\crc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\const_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\conn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\conn_poll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\conn_thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\conn_mux.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\base64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\hash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\hmac.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\ice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\juice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\log.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\random.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\server.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\stun.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\timestamp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\tcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\turn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libjuice\src\udp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CC244DE8-4D42-3F7B-86C9-67D37FA84A27}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

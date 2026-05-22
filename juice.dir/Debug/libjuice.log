@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2205,5): warning MSB9008: The referenced project C:\Users\camilo\remoting\main\port\networking\libdatachannel\build3\ZERO_CHECK.vcxproj does not exist.
+  application_build_helper C:\Users\camilo\remoting\main\port\networking\libjuice\ libjuice x64 Debug
+  2026-05-21 22:36:14
+  00:00:00 006 task 1> Task "platform::system" has finishing flag.
+  addr.c
+  agent.c
+  crc32.c
+  const_time.c
+  conn.c
+  conn_poll.c
+  conn_thread.c
+  conn_mux.c
+  base64.c
+  hash.c
+  hmac.c
+  ice.c
+  juice.c
+  log.c
+  random.c
+  server.c
+  stun.c
+  timestamp.c
+  tcp.c
+  turn.c
+  udp.c
+  libjuice.vcxproj -> C:\Users\camilo\remoting\main\port\networking\libdatachannel\build3\libdatachannel\deps\libjuice\Debug\juice.lib
